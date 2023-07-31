@@ -65,12 +65,14 @@ For more details, please refer to the full paper.
 
 ### Case 1: Cam distortion
 
-https://github.com/westlake-autolab/FusionAD/assets/2638853/5ca4676d-d626-44ee-acf4-bf36d72b6696
+[cam_distortion.webm](https://github.com/westlake-autolab/FusionAD/assets/2638853/3c832ac0-ad6e-4f38-9734-c0b0d4650650)
+
 
 
 ### Case 2: Uturn 
 
-https://github.com/westlake-autolab/FusionAD/assets/2638853/a58f7245-4871-4129-86ae-33a6c455f58a
+[uturn.webm](https://github.com/westlake-autolab/FusionAD/assets/2638853/59f125dd-2c57-490d-9cc8-896e27d57e68)
+
 
 
 
