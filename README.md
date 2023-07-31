@@ -65,11 +65,15 @@ Sure, let's format these results into markdown tables. For readability, I will h
 ## Cases Comparison with the Uniad
 
 ### Case 1: Cam distortion
-[Link to my video](resources/cam_distortion.mov)
+https://github.com/westlake-autolab/FusionAD/assets/2638853/b05d1b0c-2156-4d24-9292-6e9ca45b6a63
+
+
 
 
 ### Case 2: Uturn 
-[Link to my video](resources/uturn.mov)
+https://github.com/westlake-autolab/FusionAD/assets/2638853/93933d16-9c52-4de6-9e4a-fc904bbe99ac
+
+
 
 ## Citation
 If you find our work useful in your research, please consider citing:
