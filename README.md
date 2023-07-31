@@ -65,14 +65,11 @@ Sure, let's format these results into markdown tables. For readability, I will h
 ## Cases Comparison with the Uniad
 
 ### Case 1: Cam distortion
-<video width="640" height="480" controls>
-  <source src="resources/cam_distortion.mp4" type="video/mp4">
-</video>
+[Link to my video](resources/cam_distortion.mov)
+
 
 ### Case 2: Uturn 
-<video width="640" height="480" controls>
-  <source src="resources/uturn.mp4" type="video/mp4">
-</video>
+[Link to my video](resources/uturn.mov)
 
 ## Citation
 If you find our work useful in your research, please consider citing:
