@@ -17,7 +17,13 @@ FusionAD is an approach to building a unified network for leveraging multi-senso
 
 ## Paper
 
-For more details, please refer to the full paper.
+For more details, please refer to the full paper which will be released very soon.
+
+
+### Code release
+
+This project is still in heavy development and we will release a plan for code release later.
+
 
 ## Main Results
 ∗ denotes evaluation using checkpoints from official implementation.
@@ -61,14 +67,14 @@ For more details, please refer to the full paper.
 | **FusionAD** | 0.81     | **0.02** | **0.08** | 0.27 | **0.12** | **0.37** |
 
 
-## Cases Comparison with the Uniad
+## Cases Comparison with the UniAD
 
-### Case 1: perception of bus. FusionAD detects the heading correctly while distorsion exists in near range. 
+### Case 1
 [cam_distortion.webm](https://github.com/westlake-autolab/FusionAD/assets/2638853/40b40c60-b4c8-4e5c-9c9e-f1342902cded)
 Perception of a bus. FusionAD detects the heading correctly while distorsion exists in near range, but UniAD incorrectly predicts the heading. 
 
 
-### Case 2: prediction of U-turn. FusionAD consistantly predicts the U-turn earlier with all modes, while UniAD still predicts the move-foward, left-turn and U-turn modes. 
+### Case 2
 [uturn.webm](https://github.com/westlake-autolab/FusionAD/assets/2638853/5341ff7b-151b-490a-9eae-0be23705f4c5)
 Prediction of U-turn. FusionAD consistantly predicts the U-turn earlier in all modes which aligns with the ground-truth trace, while UniAD still predicts the
 move-foward, left-turn and U-turn modes until the very last second U-turn actually happens.
@@ -88,7 +94,8 @@ If you find our work useful in your research, please consider citing:
 
 ## Acknowledgements
 
-Acknowledge the [UniAD](https://github.com/OpenDriveLab/UniAD) repository for their valuable resources.
+We acknowledge the authors of [UniAD](https://github.com/OpenDriveLab/UniAD) repository for their valuable contribution.
+
 
 ## Contact
 
