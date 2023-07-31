@@ -27,7 +27,6 @@ For more details, please refer to the full paper.
 | UniAD    | 0.382*, 0.499*       | 0.359, 1.320            | 0.313, 0.691              | 0.708, 1.025, 0.151, 0.456      | 54.7, 33.5, 63.4, 40.2                 | 1.03, 0.31, 1.46*               |
 | FusionAD | **0.574**, **0.646** | **0.501**, **1.065**    | **0.367**, **0.731**      | **0.389, 0.615, 0.084, 0.620**  | **64.7, 50.2, 70.4, 51.0**             | **0.81, 0.12, 0.37**            |
 
-Sure, let's format these results into markdown tables. For readability, I will highlight the best result in each metric with a bold font.
 
 ### Motion Forecasting Results
 
@@ -67,9 +66,6 @@ Sure, let's format these results into markdown tables. For readability, I will h
 ### Case 1: Cam distortion
 
 https://github.com/westlake-autolab/FusionAD/assets/2638853/5ca4676d-d626-44ee-acf4-bf36d72b6696
-
-
-
 
 
 ### Case 2: Uturn 
