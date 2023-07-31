@@ -65,13 +65,17 @@ Sure, let's format these results into markdown tables. For readability, I will h
 ## Cases Comparison with the Uniad
 
 ### Case 1: Cam distortion
-https://github.com/westlake-autolab/FusionAD/assets/2638853/b05d1b0c-2156-4d24-9292-6e9ca45b6a63
+
+https://github.com/westlake-autolab/FusionAD/assets/2638853/5ca4676d-d626-44ee-acf4-bf36d72b6696
+
 
 
 
 
 ### Case 2: Uturn 
-https://github.com/westlake-autolab/FusionAD/assets/2638853/93933d16-9c52-4de6-9e4a-fc904bbe99ac
+
+https://github.com/westlake-autolab/FusionAD/assets/2638853/a58f7245-4871-4129-86ae-33a6c455f58a
+
 
 
 
