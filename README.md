@@ -64,15 +64,12 @@ For more details, please refer to the full paper.
 ## Cases Comparison with the Uniad
 
 ### Case 1: Cam distortion
-
-[cam_distortion.webm](https://github.com/westlake-autolab/FusionAD/assets/2638853/3c832ac0-ad6e-4f38-9734-c0b0d4650650)
+[cam_distortion.webm](https://github.com/westlake-autolab/FusionAD/assets/2638853/40b40c60-b4c8-4e5c-9c9e-f1342902cded)
 
 
 
 ### Case 2: Uturn 
-
-[uturn.webm](https://github.com/westlake-autolab/FusionAD/assets/2638853/59f125dd-2c57-490d-9cc8-896e27d57e68)
-
+[uturn.webm](https://github.com/westlake-autolab/FusionAD/assets/2638853/5341ff7b-151b-490a-9eae-0be23705f4c5)
 
 
 
