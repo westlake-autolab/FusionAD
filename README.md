@@ -81,7 +81,7 @@ If you find our work useful in your research, please consider citing:
 @article{yetengju2023fusionad,
   title={FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving},
   author={Ye, Tengju and Hu, Chunyong and Huang, Shikun and Gao, Lingping and Li, Fangzhen and Wang, Jingke and Guo, Ke and Xiao, Wencong and Mao, Weibo and Zheng, Hang and Li, Kun and Jing, Wei and Yu, Kaicheng and Chen, Junbo},
-  year={2023},
+  year={2023}
 }
 ```
 
