@@ -41,7 +41,7 @@ This project is still in heavy development and we will release a plan for code r
 | PnPNet | 1.15 | 1.95 | 0.226 | 0.222 |
 | VIP3D | 2.05 | 2.84 | 0.246 | 0.226 |
 | UniAD | 0.71 | 1.02 | 0.151 | 0.456 |
-| **FusionAD** | **0.394** | **0.636** | **0.088** | **0.622** |
+| **FusionAD** | **0.388** | **0.617** | **0.086** | **0.626** |
 
 ### Occupancy Prediction Results
 
