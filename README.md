@@ -17,7 +17,7 @@ FusionAD is an approach to building a unified network for leveraging multi-senso
 
 ## Paper
 
-For more details, please refer to the full paper which will be released very soon.
+For more details, please refer to the [full paper](https://arxiv.org/pdf/2308.01006.pdf). 
 
 
 ### Code release
