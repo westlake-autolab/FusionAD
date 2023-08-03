@@ -71,15 +71,14 @@ This project is still in heavy development and we will release a plan for code r
 
 ### Case 1
 
-[cam_distortion.webm](https://github.com/westlake-autolab/FusionAD/assets/2638853/f990ce92-3e56-4cf8-97c5-f61766a56d77)
+[cam_distortion.webm](https://github.com/westlake-autolab/FusionAD/assets/2638853/4695273c-355b-435c-be4e-28626e34a4e9)
 
 Perception of a bus. FusionAD detects the heading correctly while distorsion exists in near range, but UniAD incorrectly predicts the heading. 
 
 
 ### Case 2
 
-[uturn.webm](https://github.com/westlake-autolab/FusionAD/assets/2638853/4a298e66-4ce0-43c0-86b8-ce48bd47f0ab)
-
+[uturn.webm](https://github.com/westlake-autolab/FusionAD/assets/2638853/1d57766c-52ba-47f8-8623-3e139911cd8f)
 
 Prediction of U-turn. FusionAD consistantly predicts the U-turn earlier in all modes which aligns with the ground-truth trace, while UniAD still predicts the
 move-foward, left-turn and U-turn modes until the very last second U-turn actually happens.
