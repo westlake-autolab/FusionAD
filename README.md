@@ -19,11 +19,8 @@ FusionAD is an approach to building a unified network for leveraging multi-senso
 
 For more details, please refer to the [full paper](https://arxiv.org/pdf/2308.01006.pdf). 
 
-
-### Code release
-
-This project is still in heavy development and we will release a plan for code release later.
-
+## Getting Started
+[Train/Eval](docs/TRAIN_EVAL.md)
 
 ## Main Results
 ∗ denotes evaluation using checkpoints from official implementation.
